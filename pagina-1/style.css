@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+#container {
+    background-color: blue;
+    width: 800px;
+    height: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#header {
+    width: 800px;
+    background-color: yellow;
+}
+
+#header img {
+    width: 100%;
+}
+
+.pari-dispari {
+    padding: 20px;
+    background-color: orange;
+}
+
+.pari-dispari p {
+    display: inline-block;
+    width: 400px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.testo-sinistra {
+    text-align: left;
+}
+
+.testo-destra {
+    text-align: right;
+}
+
+.dispari {
+    text-align: right;
+}
+
+.pari {
+    text-align: left;
+}
+
+.primo {
+    background-color: paleturquoise;
+}
+
+.primo p {
+    color: red;
+}
+
+.secondo {
+    background-color: lawngreen;
+}
+
+.secondo p {
+    color: blue;
+}
+
+.terzo {
+    background-color: gold;
+}
+
+.terzo p {
+    color: green;
+}
