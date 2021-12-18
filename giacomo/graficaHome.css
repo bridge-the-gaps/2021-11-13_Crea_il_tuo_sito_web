@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0px;
+    font-size: large;
+}
+
+.botton {
+    float:left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+
+
+.immagini {
+    text-align: center;
+}
+
+.botton:hover {
+    font-size: 30px;
+    text-decoration:underline  ;
+}
+
+#navBar {
+    height: 130px;
+}
+
+.contenuto {
+    text-align: center;
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+#sito {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1300px;
+    background-color: aquamarine;
+}
+
+#navBar {
+    text-align: center;
+}
+
+#navBar_center {
+    display:inline-block;
+}
+
+#presentazione {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+}
+
+#progetti #tit {
+    font-size: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:blue;
+}
+
+.spiegazione{
+    width: 70%;
+    float:left;
+    
+}
+
+.riga{
+    padding: 10px;
+    height: 215px;
+    clear: both;
+}
+
+
+
+.immagine img{
+ width: 300px;
+ height: 200px;
+
+   padding: 20px;
+  
+
+}
+
+.immagine {
+    text-align: left;
+    width: 30%;
+    float: left;
+
+}
+
+#immagine1{
+    text-align: center;
+    height: 200px;
+    padding-top: 5px;
+}
+
+#immagine1 img{
+   
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#footer {
+    text-align: center;
+    background-color: gray;
+    width: 100%;
+    height: 50px;
+    clear:both;
+}
+
+
+
+
