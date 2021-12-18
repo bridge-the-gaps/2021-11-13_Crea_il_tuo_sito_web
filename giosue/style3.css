@@ -1,0 +1,79 @@
+body {
+    background-color: beige;
+}
+
+.ciao {
+    background-color: yellow;
+    color: #000000;
+    width: 50%;
+    display: inline-block;
+    float: left;
+    height: 100%;
+}
+
+.sezione {
+    width: 1000px;
+    height: 250px;
+    background-color: yellow;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 2.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.colonna {
+    background-color: yellow;
+    color: #000000;
+    width: 33%;
+    display: inline-block;
+    float: left;
+    height: 100%;
+}
+
+.destra {
+    display: inline-block;
+    float:right;    
+}
+
+.bottone {
+    background-color: grey;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    float:left;
+    padding: 1em;
+    margin-left: 0.5em;
+}
+
+.bottone:hover {
+    background-color: rgb(61, 60, 60);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:darkturquoise;
+    padding: 1em;
+}
+
+.sezionebottone {
+    width: 1000px;
+    height: 50px;
+    background-color: yellow;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    margin-bottom: 2.5em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.verde {
+    background-color: rgb(4, 59, 4);
+}
+
+.rosso {
+    background-color: red;
+}
+
+.blu  {
+    background-color: blue;
+}
